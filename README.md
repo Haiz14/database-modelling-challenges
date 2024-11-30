@@ -6,11 +6,13 @@ Use whichever stack or language you are familiar with sql or nosql, python or br
 
 NOTE: add gitignore while creating each variant of a problem
 
+## LEVELS
+
 - [./lev-1/](./lev-1/): save undo and redoes of a text editor
 Goal: CRD operations on a column
 
 
-- [./lev-2/](./lev-2/): phonebook
+- [./lev-2/](./lev-2/): movie-book
 goal: CRUD on a table with multiple columns
 
 
