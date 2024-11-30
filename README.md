@@ -14,26 +14,31 @@ NOTE: add gitignore while creating each variant of a problem
 
 Goal: CRD operations on a column
 
+---
 
 - [./lev-2/](./lev-2/): movie-book
 
 goal: CRUD on a table with multiple columns
 
+---
 
 - [./lev-3/](./lev-3/): gambling-den
 
 goal: adding comstraints to tables and transactions usage
 
+---
 
 - [./lev-4/](./lev-4/): anonymous-blogs
 
 goal: how to use relationships and views
 
+---
 
 - [./lev-5](./lev-5): reddit-imitation
 
 goal: creating recommendation systems
 
+---
 
 - [./lev-6](./lev-6/): SaaS, document selling
 
