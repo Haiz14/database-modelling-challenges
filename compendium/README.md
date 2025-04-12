@@ -12,7 +12,13 @@ Arcitecturing a big database? Retrieving data from db? What should be the things
   - Bulk
 - scaling
 - premission systems
+- credit system
+- scheduling
 - modelling
+  - relationsips
+- prep: i.e. table creation in sql
+- niche features
+
 
 # Assembly
 
